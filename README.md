@@ -1,1 +1,3 @@
-# netflix_sql_pro_data
+NETFLIX TV SHOWS AND MOVIE ANALYSIS
+
+![NETFLIX LOGO]()
